@@ -23,4 +23,17 @@ We build libraries with Rust cores and ergonomic bindings for Python, Java, and 
 | **[reclink](https://github.com/ByteVeda/reclink)** | High-performance fuzzy matching and record linkage. | Rust · Python |
 | **[dagron](https://github.com/ByteVeda/dagron)** | Rust-backed DAG execution engine for Python. | Rust · Python |
 
+## Contributing
+
+We welcome contributions!
+
+1. Fork the repository  
+2. Create a new branch  
+3. Make your changes  
+4. Submit a pull request  
+
 Every project is released under the MIT or Apache-2.0 license.
+
+## Support
+
+If you find ByteVeda useful, consider giving a ⭐ to the repositories!
