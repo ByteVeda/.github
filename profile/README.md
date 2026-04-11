@@ -1,6 +1,7 @@
-<h1 align="center">ByteVeda</h1>
-
-<p align="center">Fast, open-source tools for high-performance systems.</p>
+<p align="center">
+  <img width="337" height="138" alt="ByteVeda logo" src="https://github.com/user-attachments/assets/fcb6c9b2-6583-489d-ac8f-3b77b7084794" />
+</p>
+<p align="center"><strong>Fast, open-source tools for high-performance systems.</strong></p>
 
 <p align="center">
   <a href="https://byteveda.org">byteveda.org</a>
